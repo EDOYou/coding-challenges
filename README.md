@@ -4,7 +4,8 @@ This repository contains solutions to various coding challenges from platforms s
 
 ## 📖 Table of Contents
 
-- [HackerRank](./HackerRank/)
+- [HackerRank](./hackerrank/)
+- [LeetCode](./leetcode/)
 
 ## 🛠️ Installation & Set Up
 
